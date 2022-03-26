@@ -8,6 +8,7 @@ const App = () => {
     return (
         <>
             <h1>Welcome to React application,here we can add a lot of functionality</h1>
+            <h2>Here we will add antd funtionality</h2>
         </>
     )
 }
